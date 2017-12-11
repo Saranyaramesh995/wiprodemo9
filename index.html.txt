@@ -1,0 +1,10 @@
+<html>
+<title>
+DEMO WEBAPP
+</title>
+<body>
+<h1>
+Welcome to Azurewebap!! 2.0
+</h1>
+</body>
+</html>
